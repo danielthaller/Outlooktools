@@ -1,0 +1,14 @@
+C:\Users\danie\source\repos\SDV-Outlook-Tools\SDV-Outlook-Tools\bin\Debug\SDV-Outlook-Tools.dll.config
+C:\Users\danie\source\repos\SDV-Outlook-Tools\SDV-Outlook-Tools\bin\Debug\SDV-Outlook-Tools.dll
+C:\Users\danie\source\repos\SDV-Outlook-Tools\SDV-Outlook-Tools\bin\Debug\SDV-Outlook-Tools.pdb
+C:\Users\danie\source\repos\SDV-Outlook-Tools\SDV-Outlook-Tools\bin\Debug\SDV-Outlook-Tools.dll.manifest
+C:\Users\danie\source\repos\SDV-Outlook-Tools\SDV-Outlook-Tools\bin\Debug\SDV-Outlook-Tools.vsto
+C:\Users\danie\source\repos\SDV-Outlook-Tools\SDV-Outlook-Tools\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\danie\source\repos\SDV-Outlook-Tools\SDV-Outlook-Tools\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\danie\source\repos\SDV-Outlook-Tools\SDV-Outlook-Tools\obj\Debug\SDV_Outlook_Tools.Properties.Resources.resources
+C:\Users\danie\source\repos\SDV-Outlook-Tools\SDV-Outlook-Tools\obj\Debug\SDV-Outlook-Tools.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\SDV-Outlook-Tools\SDV-Outlook-Tools\obj\Debug\SDV-Outlook-Tools.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\SDV-Outlook-Tools\SDV-Outlook-Tools\obj\Debug\SDV-Outlook-Tools.csproj.CopyComplete
+C:\Users\danie\source\repos\SDV-Outlook-Tools\SDV-Outlook-Tools\obj\Debug\SDV-Outlook-Tools.dll
+C:\Users\danie\source\repos\SDV-Outlook-Tools\SDV-Outlook-Tools\obj\Debug\SDV-Outlook-Tools.pdb
+C:\Users\danie\source\repos\SDV-Outlook-Tools\SDV-Outlook-Tools\obj\Debug\SDV_Outlook_Tools.rb_sdv_outlook_tools.resources
